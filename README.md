@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá,me chamo Paula..
 
-<!--
-**paulasilveirasdev/paulasilveirasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Este perfil é dedicado ao compartilhamento dos meus projetos, estudos e evolução na área de tecnologia.
+
+📚 Sempre aprendendo e buscando desenvolver novas habilidades.
