@@ -7,7 +7,6 @@
 - CSS
 - JavaScript
 - SQL
-- Git e GitHub
 
 🚀 Este perfil é dedicado ao compartilhamento dos meus projetos, estudos e evolução na área de tecnologia.
 
